@@ -7,3 +7,7 @@ I will make liberal use of the free tier that AWS provides new accounts. However
 
 The goal is to create, deploy, and be able to scale, a web application in a cost effective manner. 
 Time is of the essence. 
+
+
+Some snippets used in testing the AWS boto3 (Python SDK)
+https://gist.github.com/binaryfun
